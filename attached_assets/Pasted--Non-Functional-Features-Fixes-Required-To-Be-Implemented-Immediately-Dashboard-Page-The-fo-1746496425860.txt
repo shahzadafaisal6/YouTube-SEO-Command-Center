@@ -1,0 +1,89 @@
+🚨 Non-Functional Features & Fixes Required (To Be Implemented Immediately)
+🔧 Dashboard Page
+The following clickable links are not working and must be made functional:
+
+Generate Topic Ideas
+
+View All Keywords
+
+View All Videos
+
+Manage API Keys
+
+Generate
+
+🎥 My Video Section
+Edit button is not functional — ensure it properly opens the editor for the selected video.
+
+🔍 Keyword Research Section
+Analyze and Delete buttons are not working — fix to allow analysis and removal of keywords.
+
+🤖 AI Assistant Tools
+These features must be made fully functional:
+
+Title Generator
+
+Description Writer
+
+Tag Generator
+
+Thumbnail Analyzer
+
+📊 API Quota Management
+Toggle button is not working — it should be functional for enabling/disabling APIs.
+
+⚙️ Settings Page
+Notifications and Advanced tabs are currently empty — add full functionality and UI content.
+
+Profile Page Fields (Email, Password, Profile Visibility) are not editable — make all fields editable and savable.
+
+🔐 Security Section
+Security/Security Settings: Nothing works — fix all elements.
+
+Ensure Security/Integration and Security/Appearance pages are fully functional.
+
+🧩 API Management Enhancements (settings/apimanagement)
+Saving new APIs (OpenAI, YouTube API v3) is not persistent — fix so data is saved and remains stored.
+
+User should be able to:
+
+Save more than 10–15 API keys of different services (OpenAI, YouTube, etc.)
+
+Automatically switch to the next API when a limit is reached
+
+Track usage and clearly see which APIs are fully used
+
+Delete any API as needed
+
+📺 YouTube OAuth Integration
+YouTube account OAuth is not working — ensure full OAuth functionality:
+
+User can connect YouTube
+
+Application can fetch data, edit video details, and more
+
+🛠️ General Settings Page (Expand Functionality)
+Current features are insufficient.
+
+Must allow complete configurability, including:
+
+URI/URL changes (Frontend, Backend)
+
+Database configuration
+
+Any critical environment setting
+
+🔐 Login Page
+YouTube Login button must be visible and fully functional on the login page.
+
+📌 Final Project Compliance
+Cross-check and ensure everything from the final project plan is implemented.
+
+Do not ask the user for any further input until:
+
+All listed features are functional
+
+The system fully aligns with the project plan
+
+The application is ready for final review and delivery
+
